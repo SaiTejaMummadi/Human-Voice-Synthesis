@@ -157,6 +157,6 @@ B1.place(x = 150, y = 280, height = 200, width = 200) #Dimensions of the button
 
 win.place(x=0,y=0,height = 500,width = 500) #Overall dimensions of the GUI window
 root.after(0, update, 0) #For updating GIF
-mainloop() #Keeps looping
+mainloop() #For TKinter
 
 
